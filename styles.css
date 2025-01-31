@@ -93,3 +93,9 @@ img {
   font-weight: 600;
   color: rgb(128, 9, 0);
 }
+
+@media (max-width: 600px) {
+    .shortBio-container {
+      text-align: left;
+    }
+}
